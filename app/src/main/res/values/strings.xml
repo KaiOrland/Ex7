@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Ex7</string>
+    <string name="intro">Hello, this app will demonstrate  the transfer to a second activity and sending results back to this one. Press the button to start</string>
+    <string name="title_activity_register">Register</string>
+    <string name="error">you need to fill in the data</string>
+</resources>
